@@ -1,13 +1,7 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <div className="container mx-auto px-4 max-w-4xl text-center">
       <div className="mb-12">
-        <h1 className="text-4xl md:text-5xl leading-tight mb-6 font-heading">
-          Gamio AI
-        </h1>
-        <div className="h-1 w-24 bg-blue-500 mx-auto mb-8"></div>
         <h2 className="text-2xl md:text-3xl font-semibold mb-4 font-heading">
           Технические работы
         </h2>
